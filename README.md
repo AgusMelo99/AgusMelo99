@@ -1,8 +1,8 @@
 # Hola, soy Agustín 👋
 
-Desarrollador backend junior (Java / Spring Boot) · Técnico Universitario en Informática · Licenciatura en Sistemas en la UNGS (egreso estimado 2027) · Buenos Aires, Argentina
+Desarrollador junior (Java / Spring Boot) · Técnico Universitario en Informática · Licenciatura en Sistemas en la UNGS (egreso estimado 2027) · Buenos Aires, Argentina
 
-Estoy buscando mi primera posición como desarrollador backend / software. Me interesan las APIs, las bases de datos y entender bien cómo funcionan los sistemas por dentro.
+Me interesan las APIs, las bases de datos y entender bien cómo funcionan los sistemas por dentro.
 
 ## Proyectos
 

@@ -14,6 +14,7 @@ Técnico Universitario en Informática y estudiante avanzado de la Licenciatura 
 - 🎓 **Licenciatura en Sistemas** en la Universidad Nacional de General Sarmiento (UNGS), egreso estimado 2027
 - 🎓 **Técnico Universitario en Informática** (UNGS), graduado en 2025
 - 💻 Trabajo principalmente con **Java**, **Spring Boot**, **SQL**, **Python** y **JavaScript**
+- 📜 Certificado en Desarrollo de APIs en Java con Spring Boot (TodoCode Academy, 2025)
 - 🌱 Hoy estoy cursando la **Certificación Full Stack (MERN)** de ITBA para sumar React y Node.js
 - 🗣️ Idiomas: español (nativo) · inglés B2
 

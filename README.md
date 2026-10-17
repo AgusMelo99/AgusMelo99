@@ -88,12 +88,4 @@ El repositorio es privado por ser de la universidad; puedo compartir el informe 
 
 ---
 
-## 🎯 Qué estoy buscando
-
-Una posición **junior o trainee** como desarrollador backend, donde pueda aportar a proyectos reales y seguir creciendo.
-
-**Áreas de interés:** Backend · APIs REST · Bases de datos · Seguridad
-
----
-
 Abierto a oportunidades. Escribime por LinkedIn o por mail.

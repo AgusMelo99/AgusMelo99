@@ -58,7 +58,6 @@ Sistema con la lógica de negocio en la base de datos: stored procedures para el
 
 **Tecnologías:** PostgreSQL · Go · BoltDB
 **Estado:** Terminado (trabajo práctico grupal)
-**Mi rol:** ✏️ *completar: qué parte desarrollé yo*
 
 📂 [supermarket-control-stock-sql](https://github.com/AgusMelo99/supermarket-control-stock-sql)
 
@@ -68,7 +67,6 @@ Pipeline de captura, correlación y ETL de eventos de seguridad de Linux, y comp
 
 **Tecnologías:** Python · Ubuntu · auditd · Ollama
 **Estado:** Terminado (trabajo final de Sistemas Operativos y Redes 2)
-**Mi rol:** ✏️ *completar si fue individual o grupal*
 
 El repositorio es privado por ser de la universidad; puedo compartir el informe a pedido.
 
@@ -84,7 +82,15 @@ El repositorio es privado por ser de la universidad; puedo compartir el informe 
 
 **Estoy construyendo**
 
-- 🪑 E-commerce de Mueblería Hermanos Jota (proyecto en equipo del curso de ITBA)
+- 🪑 [E-commerce Mueblería Hermanos Jota](https://github.com/Ticran/muebleriaApp): proyecto en equipo de 5 personas del curso de ITBA. Soy el mayor contribuyente del repositorio (más de 30 commits).
+
+---
+
+## 🎯 Qué estoy buscando
+
+Una posición **junior o trainee** como desarrollador backend o full stack, donde pueda aportar a proyectos reales y seguir creciendo.
+
+**Áreas de interés:** Backend · Bases de datos · Arquitectura de software · Seguridad
 
 ---
 

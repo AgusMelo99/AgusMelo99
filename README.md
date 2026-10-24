@@ -82,7 +82,7 @@ El repositorio es privado por ser de la universidad; puedo compartir el informe 
 
 **Estoy construyendo**
 
-- 🪑 [E-commerce Mueblería Hermanos Jota](https://github.com/Ticran/muebleriaApp): proyecto en equipo de 5 personas del curso de ITBA. Soy el mayor contribuyente del repositorio (más de 30 commits).
+- 🪑 [E-commerce Mueblería Hermanos Jota](https://github.com/Ticran/muebleriaApp): proyecto en equipo de 5 personas del curso de ITBA.
 
 ---
 

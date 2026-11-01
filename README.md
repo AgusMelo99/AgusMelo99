@@ -80,7 +80,7 @@ Aplicación web full stack de comercio electrónico con catálogo dinámico, car
 
 ## 🎯 Qué estoy buscando
 
-Una posición **Junior o Trainee** como desarrollador **Backend** o **Full Stack**, donde pueda aportar una base sólida de ingeniería de software, seguir aprendiendo en equipo y generar impacto en proyectos reales.
+Una posición como desarrollador **Backend** o **Full Stack**, donde pueda aportar una base sólida de ingeniería de software, colaborar en equipo y generar impacto en proyectos reales.
 
 **Áreas de interés:** Backend · Full Stack · Arquitectura de Software · Ciberseguridad (AppSec / SecOps)
 

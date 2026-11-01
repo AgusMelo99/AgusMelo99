@@ -4,7 +4,7 @@
 
 Técnico Universitario en Informática graduado y estudiante avanzado de la Licenciatura en Sistemas (UNGS). Me enfoco en el desarrollo de APIs REST, diseño de software, bases de datos y seguridad de sistemas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-melo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-melo-477416287/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:agusmelojob999@gmail.com)
 
 ---
